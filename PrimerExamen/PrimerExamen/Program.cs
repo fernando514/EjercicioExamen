@@ -16,7 +16,7 @@ namespace PrimerExamen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Formulario2());
+            Application.Run(new Formulario3());
         }
     }
 }
